@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+
+# Node / React
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.npm
+.vite/
+
+# Database (optional - keep or ignore depending on setup)
+# razorshield.db
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
